@@ -74,9 +74,8 @@ All predictions are falsifiable with near-term tech. See [doc/MOHSRF-Predictions
 This repo is documentation-focused. To explore:
 1. Clone the repo: `git clone https://github.com/TaoishTechy/MOHSRF.git`
 2. Read core docs:
-   - [Meta-Ontological Hyper-Symbiotic Resonance Framework (MO-HSRCF v4.0).md](Meta‑Ontological%20Hyper‑Symbiotic%20Resonance%20Framework%20(MO‑HSRCF%20v4.0).md)
-   - [MOS-HSRCF v4.0: Potential AGI Development Enhancements.md](MOS-HSRCF%20v4.0:%20Potential%20AGI%20Development%20Enhancements.md)
-   - [MO HSRF - Sandbox Run Round 1.json](MO%20HSRF%20-%20Sandbox%20Run%20Round%201.json) (session data)
+   - [Meta-Ontological Hyper-Symbiotic Resonance Framework (MO-HSRCF v4.0).md](Official%20Versions/Meta‑Ontological%20Hyper‑Symbiotic%20Resonance%20Framework%20(MO‑HSRCF%20v4.0).md)
+   - [MO HSRF - Sandbox Run Round 1.json](data/MO%20HSRF%20-%20Sandbox%20Run%20Round%201.json) (session data)
    - [doc/MOHSRF-Axioms.md](doc/MOHSRF-Axioms.md)
    - [doc/MOHSRF-Equations.md](doc/MOHSRF-Equations.md)
    - [doc/MOHSRF-AGI-Features.md](doc/MOHSRF-AGI-Features.md)
